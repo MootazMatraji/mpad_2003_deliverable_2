@@ -1,7 +1,7 @@
-## Template for the Exploratory Data Analysis (EDA) & Pitch
+# MPAD 2003 — Deliverable 2: Exploratory Data Analysis
 
-Here are the files for the term project of courses JOU4100 Digital Journalism II and JOU4500 Journalisme numérique II at the University of Ottawa, and MPAD2003 Introductory Data Storytelling offered at Carleton University.
+**[Read the final report](matraji_mpad_2003_deliverable_2.md)**
 
-## Modèle pour le Analyse exploratoire de données (AED) et proposition
+The project investigates lighting recorded in City of Ottawa municipal soccer-field data. The final report includes the data-import process, VIMO audit, cleaning methods, pivot table, exploratory chart, follow-up reporting plan, and references.
 
-Vous trouverez ici les fichiers pour le projet de session des cours JOU4100 Digital Journalism II et JOU4500 Journalisme numérique II à l'Université d'Ottawa, et du cours MPAD2003 Introductory Data Storytelling offert à l'Université Carleton.
+The dataset, working analysis, separate section files, and five illustrations are in [`mpad2003_soccer_analysis/`](mpad2003_soccer_analysis/).

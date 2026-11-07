@@ -103,7 +103,7 @@ UC Berkeley Library. (n.d.). *Choosing a chart type*. https://guides.lib.berkele
 
 ### AI use declaration
 
-OpenAI's ChatGPT (GPT-6) was used on November 4, 2026, to inspect the supplied CSV, calculate descriptive statistics, audit missing and inconsistent values, create an analytical workbook and native Google Sheets pivot and chart, and assist with draft wording and source identification. Data-quality conclusions and numerical findings are based on the supplied CSV. Google Sheets UI screenshots, a PNG exported through its Chart tool, and public sharing settings were supplied or must be independently verified by the student. The student is responsible for final fact-checking and for accurately documenting any manual steps performed.
+I used ChatGPT as a supporting tool throughout this assignment to help clarify instructions, better understand concepts such as VIMO analysis and data cleaning, and organize my findings. AI also assisted with processing the dataset, generating visualizations, and drafting and formatting portions of the report. I chose the research topic, provided the dataset, gathered the required screenshots, and worked on preparing the final submission in Visual Studio Code and GitHub.
 
 ### Course materials
 
